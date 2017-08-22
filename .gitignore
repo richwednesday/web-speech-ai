@@ -1,3 +1,8 @@
 .DS_Store
-.env
-node_modules
+
+#dependencies
+/node_modules
+
+#config
+/config
+
