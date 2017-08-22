@@ -1,11 +1,7 @@
 # Demo: A Simple Voice AI Bot with Web Speech API and Node.js
+# Live version at  https://web-speech-ai-ctirevqbqf.now.sh
 
 This demo uses the experimental Web Speech API, which is currently only [supported](http://caniuse.com/#search=speech) by Blink-based browsers including Chrome 25+, Opera 27+, Samsung Internet, QQ Browser, and Baidu Browser.
-
-[![View the demo on Vimeo](https://i.vimeocdn.com/video/633160262_480x297.jpg)](https://vimeo.com/215612852)
-
-View the demo on [Vimeo](https://vimeo.com/215612852/)
-
 
 
 This is how this web app works:
